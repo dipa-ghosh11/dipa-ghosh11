@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipa Ghosh</h1>
-<h3 align="center">A passionate Data science aspirant & Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer & Data Science Aspirant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipa-ghosh11&label=Profile%20views&color=0e75b6&style=flat" alt="dipa-ghosh11" /> </p>
 
-- 🌱 I’m currently learning **AI/ML, SQL, Adv. Excel, Power BI, Big data**
+- 🌱 I have knowledge on SQL, PowerBI, Python, Tableau, Machine Learning and I have proficiency on MERN(Mongodb, ExpressJs, ReactJs, NodeJs) stack.**
 
 - 📫 How to reach me **dipaghosh0902@gmail.com**
 
