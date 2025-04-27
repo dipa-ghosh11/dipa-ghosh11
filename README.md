@@ -1,21 +1,67 @@
 <h1 align="center">Hi 👋, I'm Dipa Ghosh</h1>
-<h3 align="center">A passionate Full Stack Web Developer & Data Science Aspirant</h3>
+<h3 align="center">🚀 A Passionate Full Stack Web Developer & Data Science Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipa-ghosh11&label=Profile%20views&color=0e75b6&style=flat" alt="dipa-ghosh11" /> </p>
-
-- 🌱 I have knowledge on SQL, PowerBI, Python, Tableau, Machine Learning and I have proficiency on MERN(Mongodb, ExpressJs, ReactJs, NodeJs) stack.
-
-- 📫 How to reach me **dipaghosh0902@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dipa-ghosh-122041266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipa-ghosh-122041266" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dipa_44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dipa_44" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dipaghosh0902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipaghosh0902" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dipa_4567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dipa_4567" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dipa-ghosh11&label=Profile%20views&color=0e75b6&style=flat" alt="dipa-ghosh11" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Data+Science+Aspirant;SQL+%7C+Python+%7C+PowerBI+%7C+Tableau;Machine+Learning+Explorer;Let's+Connect+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipa-ghosh11&show_icons=true&locale=en" alt="dipa-ghosh11" /></p>
+---
+
+### 💡 About Me:
+- 🌱 I’m skilled in **SQL, PowerBI, Python, Tableau, Machine Learning** and proficient in **MERN (MongoDB, Express.js, React.js, Node.js)** stack.
+- 🎯 Constantly expanding my knowledge in **Data Science**, **Backend Development**, and **Visualization Tools**.
+- 📫 **Reach me at:** **`dipaghosh0902@gmail.com`**
+
+---
+
+### 📫 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/dipa-ghosh-122041266" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/dipa_44" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" width="40" height="40" />
+  </a>
+  <a href="https://www.hackerrank.com/dipaghosh0902" target="blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/dipa_4567" target="blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Skills & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,linux,git,github,vscode,tableau,powerbi" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=pandas,scikit-learn" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipa-ghosh11&show_icons=true&theme=radical" alt="Dipa's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipa-ghosh11&theme=radical" alt="Dipa's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa-ghosh11&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ Fun Fact:
+- 🔥 I believe in **Continuous Learning** and **Building Projects** to turn imagination into reality.
+- ☕ Coffee and Code is my favorite combination!
+
+---
