@@ -59,10 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa-ghosh11&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" width="50%"/>
 </p>
 
-
-
-
-
 ---
 
 ### ✨ Fun Fact:
@@ -72,10 +68,8 @@
 
 ---
 
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&gradientStart=4e5b71&gradientEnd=3f5c9b&animation=bounce" />
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="My GIF" width="400"/>
 </p>
-
-
-
-
