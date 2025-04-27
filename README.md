@@ -52,13 +52,14 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipa-ghosh11&show_icons=true&theme=radical&border_radius=15&custom_title=Dipa%20Ghosh%20GitHub%20Stats" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipa-ghosh11&theme=radical&border_radius=15" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dipa-ghosh11&show_icons=true&theme=ocean-dark&border_radius=15" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipa-ghosh11&theme=ocean-dark&border_radius=15" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa-ghosh11&layout=compact&theme=radical&border_radius=15" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa-ghosh11&layout=compact&theme=ocean-dark&border_radius=15" alt="Top Languages" width="50%" />
 </p>
+
 
 
 ---
