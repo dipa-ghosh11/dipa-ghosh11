@@ -73,7 +73,8 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&gradientStart=6a11cb&gradientEnd=3f8ef1&animation=spin" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&gradientStart=2a3d66&gradientEnd=4c87b6&animation=pulse" />
 </p>
+
 
 
