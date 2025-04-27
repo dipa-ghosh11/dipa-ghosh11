@@ -50,14 +50,31 @@
 
 ---
 
-### 📈 GitHub Stats:
+### 📈 GitHub Stats & Activities:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipa-ghosh11&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF" alt="Dipa's GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipa-ghosh11&theme=github-dark&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF" alt="Dipa's GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dipa-ghosh11&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=4c8eda&text_color=999999&icon_color=4c8eda&custom_title=Dipa%20Ghosh's%20GitHub%20Stats" alt="Dipa Ghosh GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipa-ghosh11&theme=transparent&hide_border=true&stroke=4c8eda&ring=4c8eda&fire=4c8eda" alt="GitHub Streak" width="45%"/>
 </p>
 
+<br/>
+
+### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa-ghosh11&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" width="50%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dipa-ghosh11&theme=onestar&row=1&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+<br/>
+
+### 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa-ghosh11&layout=compact&theme=transparent&hide_border=true&title_color=4c8eda&text_color=999999" alt="Top Languages" width="40%"/>
+</p>
+
+<br/>
+
+### 🐍 Contribution Snake Animation:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dipa-ghosh11/dipa-ghosh11/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 
