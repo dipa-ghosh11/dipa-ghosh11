@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full Stack Web Developer | Data Science Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+MERN+Developer;Data+Science+Aspirant;Machine+Learning+Explorer;Open+Source+Contributor&font=Fira%20Code&center=true&width=500&height=45&color=0E75B6&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+MERN+Developer;Data+Science+Aspirant;Machine+Learning+Explorer;Open+Source+Contributor&font=Fira+Code&center=true&width=500&height=45&color=0E75B6&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,12 +19,24 @@
 
 ### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/dipa-ghosh-122041266/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/dipa_4567/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/user/dipaghognr0/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40" alt="GFG"/></a>
-  <a href="https://hashnode.com/@dipa236" target="_blank"><img src="https://skillicons.dev/icons?i=hashnode" alt="Hashnode" /></a>
-  <a href="https://www.codechef.com/users/dipa_44" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="40" height="40" alt="CodeChef" /></a>
-  <a href="https://www.hackerrank.com/dipaghosh0902" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" /></a>
+  <a href="https://www.linkedin.com/in/dipa-ghosh-122041266/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/dipa_4567/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dipaghognr0/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+  </a>
+  <a href="https://hashnode.com/@dipa236" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+  </a>
+  <a href="https://www.codechef.com/users/dipa_44" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://www.hackerrank.com/dipaghosh0902" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
 </p>
 
 ---
