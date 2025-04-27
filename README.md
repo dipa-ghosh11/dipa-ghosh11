@@ -50,15 +50,16 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipa-ghosh11&show_icons=true&theme=ocean-dark&border_radius=15" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipa-ghosh11&theme=ocean-dark&border_radius=15" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dipa-ghosh11&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF" alt="Dipa's GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipa-ghosh11&theme=github-dark&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF" alt="Dipa's GitHub Streak" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa-ghosh11&layout=compact&theme=ocean-dark&border_radius=15" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa-ghosh11&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" width="50%"/>
 </p>
+
 
 
 
