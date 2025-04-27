@@ -1,9 +1,5 @@
 <!-- Profile README.md -->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="My GIF" width="400"/>
-</p>
-
 <h1 align="center">Hey 👋, I'm Dipa Ghosh</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Data Science Enthusiast | Tech Explorer</h3>
 
