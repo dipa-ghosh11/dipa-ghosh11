@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+MERN+Developer;Data+Science+Aspirant;Machine+Learning+Explorer;Open+Source+Contributor&font=Fira+Code&center=true&width=500&height=45&color=0E75B6&vCenter=true&pause=1000" alt="Typing SVG" />
 </p>
 
----
+
 
 ### 🚀 About Me:
 - 🌱 I’m skilled in **MERN Stack, SQL, Python, PowerBI, Tableau, Machine Learning**.
@@ -15,7 +15,7 @@
 - 🎯 Always open to collaborating on **interesting projects** and **innovative ideas**.
 - 📫 Reach me at: **`dipaghosh0902@gmail.com`**
 
----
+
 
 ### 🌐 Connect with Me:
 <p align="center">
@@ -39,7 +39,7 @@
   </a>
 </p>
 
----
+
 
 ### 🛠️ Tech Stack:
 <p align="center">
@@ -48,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=tableau,powerbi,pandas,scikit-learn,seaborn" />
 </p>
 
----
+
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dipa-ghosh11&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF" alt="Dipa's GitHub Stats" width="45%"/>
@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipa-ghosh11&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" width="50%"/>
 </p>
 
----
+
 
 ### ✨ Fun Fact:
 - 🔥 I love building real-world impactful projects.
